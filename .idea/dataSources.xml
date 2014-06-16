@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2555374183">
+    <data-source source="LOCAL" name="src:hibernate.cfg.xml" uuid="32e47d6d-78ef-4b25-8c89-c23128d82e4e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/imona</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries>
+        <library>
+          <url>file://C:\Users\kaan\.m2\repository\mysql\mysql-connector-java\5.1.9\mysql-connector-java-5.1.9.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="a2a18972-2561-4bdd-98a1-e7674c04b5b7">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/imona</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <libraries>
+        <library>
+          <url>file://C:\Users\kaan\.m2\repository\mysql\mysql-connector-java\5.1.9\mysql-connector-java-5.1.9.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
